@@ -16,4 +16,4 @@ $ pip install pandas numpy statsmodels matplotlib scikit-learn
 
 ---
 
-<p align="center"> 🚀 Created by [BrenoAV](https://brenoav.github.io)<p>
+<p align="center"> 🚀 Created by BrenoAV <p>

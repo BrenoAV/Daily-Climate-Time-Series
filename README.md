@@ -7,12 +7,19 @@ The **target variable is a Mean Temperature (meantemp)**.
 # PYTHON DEPENDENCIES
 
 ```console
-$ pip install pandas numpy statsmodels matplotlib scikit-learn
+$ pip install pandas numpy statsmodels matplotlib scikit-learn prophet plotly
 ```
 
-# TABLE OF CONTENTS
+# Univariate
 
-- [Holt-Winters Exponential Smoothing](notebooks/HoltWintersExponentialSmoothing.ipynb)
+Jupyter Notebook: [DailyClimateUnivariate.ipynb](./DailyClimateUnivariate.ipynb)
+
+- Holt-Winters Exponential Smoothing
+- Prophet
+
+# Multivariate
+
+- TODO: Reccurent Neural Networks, Transformers, ...
 
 ---
 
